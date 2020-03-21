@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://gairohzam.neesung.cc/sitemap.xml
